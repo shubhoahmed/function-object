@@ -6,3 +6,5 @@ function startFan() {
 }
 // call the function 
 startFan();
+startFan();
+startFan();
