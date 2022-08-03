@@ -8,3 +8,10 @@ function bringSingara(money) {
 //we can use variable as a parameter value 
 let taka = 210;
 bringSingara(taka);
+
+function sum(a, b, c, d, e) {
+    console.log('Summation of :', a, b, c, d, e);
+    let sum = a + b + c + d + e;
+    console.log(sum);
+}
+sum(51, 14, 12, 25, 14);
